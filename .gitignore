@@ -1,3 +1,3 @@
 # .gitignore
-node_modules/
+review-backend/node_modules/
 .env
